@@ -1,0 +1,18 @@
+{
+  "name": "facebook-login-page",
+  "version": "1.0.0",
+  "description": "Facebook Login page using tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  },
+  "dependencies": {
+    "vite": "^4.4.9"
+  }
+}
